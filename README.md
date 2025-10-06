@@ -18,8 +18,7 @@ Currently working on **Adflow** (Next.js + Supabase ad management platform).
 
 ### 🧩 Featured Projects
 - **[Yelra](https://github.com/heisenbergv1/yelra)** – Experimental systems language inspired by Rust; aims for zero-cost ergonomics, affine/borrowed ownership, effect-typed async, and friendly tooling.
-- **[Adflow](https://github.com/heisenbergv1/adflow)** – Social ad management tool inspired by Calendly simplicity
-- **[Unity-CoinSim](https://github.com/heisenbergv1/unity-coin-toss-3d)** – Coin toss game physics simulation (Unity 6, URP optimized)
+- **[Unity-CoinSim](https://github.com/heisenbergv1/unity-coin-toss-3d)** – Coin physics simulation game (Unity 6, URP optimized)
 
 ---
 
