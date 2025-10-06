@@ -23,7 +23,7 @@ Currently working on **Adflow** (Next.js + Supabase ad management platform).
 ---
 
 🌀 Also a huge fan of **Dimple** from *Mob Psycho 100* — the most chaotic mentor spirit in anime history.  
-<img src="https://github.com/heisenbergv1/heisenbergv1/blob/9a769d40e6329b76755cfa1005d07f2d00ed589e/dimple.jpg" width="220"/>
+<img src="https://github.com/heisenbergv1/heisenbergv1/blob/9a769d40e6329b76755cfa1005d07f2d00ed589e/dimple.jpg" />
 
 ---
 
