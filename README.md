@@ -1,6 +1,7 @@
-# 👋 Hi, I'm Jason Ramirez
+<h1 align="center">👋 Hi, I'm <span style="color:#58a6ff;">heisenbergv</span></h1>
 
-💻 **Full-Stack Engineer** | 🧠 Software Engineer
+
+💻 **Full-Stack Engineer** | 🧠 **Software Engineer**
 
 I design and build modern web systems — from .NET backends to React/Next.js frontends — with strong DevOps and performance discipline.  
 Currently working on **Adflow** (Next.js + Supabase ad management platform).
@@ -22,9 +23,30 @@ Currently working on **Adflow** (Next.js + Supabase ad management platform).
 
 ---
 
-🌀 Also a huge fan of **Dimple** from *Mob Psycho 100* — the most chaotic mentor spirit in anime history.  
-<img src="https://github.com/heisenbergv1/heisenbergv1/blob/9a769d40e6329b76755cfa1005d07f2d00ed589e/dimple.jpg" />
+### 💡 About the Name
+
+The pseudonym **“heisenbergv1”** is a nod to **Werner Heisenberg**, the physicist behind the *Uncertainty Principle* — the idea that observation itself affects reality.  
+I’ve always admired how that principle mirrors software engineering: observing, debugging, and improving a system inevitably changes it.
+
+The “**v1**” reminds me that every project — like every theory — begins with a **version one**, and improvement is an ongoing process of iteration and refinement.
+
+Although my background is in **pragmatic software engineering**, I’m deeply drawn to **Physics and Mathematics** — not just as sciences, but as philosophies of precision, symmetry, and truth-seeking. I try to bring that same rigor and curiosity into code design, architecture, and system thinking.
+
+> “In both physics and programming, clarity is not simplicity — it’s understanding the complexity so deeply that it looks simple.”
+
 
 ---
 
-> “Building systems that think — and code that lasts.”
+
+🌀 Also a huge fan of **Dimple** from *Mob Psycho 100* — the most chaotic mentor spirit in anime history.  
+
+
+<img src="https://github.com/heisenbergv1/heisenbergv1/blob/9a769d40e6329b76755cfa1005d07f2d00ed589e/dimple.jpg" />
+
+
+<img src="https://github.com/heisenbergv1/heisenbergv1/blob/f2da7b756728b37af55e44f6205fa6420a9b2033/dimple_3.jpg" />
+
+
+<img src="https://github.com/heisenbergv1/heisenbergv1/blob/f2da7b756728b37af55e44f6205fa6420a9b2033/dimple_2.jpg" />
+
+
