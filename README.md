@@ -17,7 +17,7 @@ I design and build modern web systems — from .NET backends to React/Next.js fr
 
 ### 🧩 Featured Projects
 - **[Yelra](https://github.com/heisenbergv1/yelra)** – Experimental systems language inspired by Rust; aims for zero-cost ergonomics, affine/borrowed ownership, effect-typed async, and friendly tooling.
-- **[Unity-CoinSim](https://github.com/heisenbergv1/unity-coin-toss-3d)** – A realistic 3D coin-physics simulation built with Unity 6 (URP-optimized). Gamblers like me will love it. Coming soon…
+- **[Unity-CoinSim](https://github.com/heisenbergv1/unity-coin-toss-3d)** – A realistic 3D coin-physics simulation game built with Unity 6 (URP-optimized). Gamblers like me will love it. Coming soon…
 
 ---
 
