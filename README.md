@@ -40,6 +40,7 @@ I design and build modern web systems — from .NET backends to React/Next.js fr
 
 > TL;DR: Vibes + rigor = senior energy.
 
+---
 
 ### 💡 About the Name
 
