@@ -24,11 +24,11 @@ I design and build modern web systems — from .NET backends to React/Next.js fr
 ### 💡 About the Name
 
 The pseudonym **“heisenbergv1”** is a nod to **Werner Heisenberg**, the physicist behind the *Uncertainty Principle* — the idea that observation itself affects reality.  
-I’ve always admired how that principle mirrors software engineering: observing, debugging, and improving a system inevitably changes it.
 
 The “**v1**” reminds me that every project — like every theory — begins with a **version one**, and improvement is an ongoing process of iteration and refinement.
 
-Although my background is in **pragmatic software engineering**, I’m deeply drawn to **Physics and Mathematics** — not just as sciences, but as philosophies of precision, symmetry, and truth-seeking. I try to bring that same rigor and curiosity into code design, architecture, and system thinking.
+Although my background is in **pragmatic software engineering**, I’m deeply drawn to **Physics and Mathematics** — not just as sciences, but as philosophies of precision, symmetry, and truth-seeking. 
+I try to bring that same rigor and curiosity into code design, architecture, and system thinking.
 
 > “In both physics and programming, clarity is not simplicity — it’s understanding the complexity so deeply that it looks simple.”
 
