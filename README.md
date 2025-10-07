@@ -1,10 +1,9 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#58a6ff;">heisenbergv</span></h1>
 
 
-💻 **Full-Stack Engineer** | 🧠 **Software Engineer**
+💻 **Full-Stack Engineer** | 🧠 **Software Engineer** (w/ positive vibes)
 
 I design and build modern web systems — from .NET backends to React/Next.js frontends — with strong DevOps and performance discipline.  
-Currently working on **Adflow** (Next.js + Supabase ad management platform).
 
 ---
 
