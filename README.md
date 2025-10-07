@@ -24,19 +24,12 @@ I design and build modern web systems — from .NET backends to React/Next.js fr
 ## 🤔 Frequently Asked (and Mildly Concerning) Questions
 
 ### Q: What are you doing as a Software Engineer?
-**A:** We’re having a charming little existential crisis, thanks for asking. Most days we act like a product manager wearing a designer’s hat while steering a codebase with a pilot’s license we definitely printed at home. ChatGPT is our extremely enthusiastic intern—great at memory, surprisingly okay at vibes. The real job? Knowing **what** to build, **why** it matters, and **how** to ship it without summoning Production Gremlins.
+**A:** Most days we act like a product manager & designer. ChatGPT is our extremely enthusiastic intern—great at memory, surprisingly okay at vibes. The real job? Knowing **what** to build, **why** it matters, and **how** to build & ship it.
 
 > TL;DR: We architect, design, and orchestrate. The code is the soundtrack.
 
 ### Q: How do we become an expert “vibe coder”?
-**A:** Start by treating curiosity like a superpower. Ask weird, sideways questions. Pair intuition with first-principles thinking. Write code that reads like you meant it. When words fail, deploy a tasteful amount of spice 🌶️—the occasional well-placed expletive can clarify intent to both humans and large language models. Then back the vibes with tests, telemetry, and a rollback plan, because vibes without guardrails are just chaos with a playlist.
-
-**Vibe Coder Starter Pack:**
-- 🧭 Ask “What if we didn’t?” before “How do we?”
-- 🧪 Ship small, measure everything, iterate loudly.
-- 🧩 Use constraints as creative fuel.
-- 🧠 Keep ChatGPT on payroll, but make it cite sources (a.k.a. be the manager).
-- 🛟 Tests, feature flags, and logs—because future-us deserves mercy.
+**A:** Start by treating curiosity like a superpower. Ask weird, out-of-the-box, sideways questions. Pair intuition with first-principles thinking. You just vibe most of the time. But, there are hard times you must use curse words so ChatGPT truly understands your meaning.
 
 > TL;DR: Vibes + rigor = senior energy.
 
