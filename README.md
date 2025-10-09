@@ -34,7 +34,7 @@ I design and build modern web systems — from .NET backends to React/Next.js fr
 > TL;DR: Vibes + rigor = senior energy.
 
 ---
-
+<!--
 ### 💡 About the Name
 
 The pseudonym **“heisenbergv1”** is a nod to **Werner Heisenberg**, the physicist behind the *Uncertainty Principle* — the idea that observation itself affects reality.  
@@ -45,7 +45,7 @@ Although my background is in **pragmatic software engineering**, I’m deeply dr
 I try to bring that same rigor and curiosity into code design, architecture, and system thinking.
 
 > “In both physics and programming, clarity is not simplicity — it’s understanding the complexity so deeply that it looks simple.”
-
+-->
 
 ---
 
