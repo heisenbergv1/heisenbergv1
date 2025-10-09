@@ -45,10 +45,10 @@ Although my background is in **pragmatic software engineering**, I’m deeply dr
 I try to bring that same rigor and curiosity into code design, architecture, and system thinking.
 
 > “In both physics and programming, clarity is not simplicity — it’s understanding the complexity so deeply that it looks simple.”
--->
+
 
 ---
-
+-->
 
 🌀 Also a huge fan of **Dimple** from *Mob Psycho 100* — the most chaotic mentor spirit in anime history.  
 
