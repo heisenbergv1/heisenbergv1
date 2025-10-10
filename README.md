@@ -20,7 +20,7 @@ I design and build modern web systems — from .NET backends to React/Next.js fr
 - **[Unity-CoinSim](https://github.com/heisenbergv1/unity-coin-toss-3d)** – A realistic 3D coin-physics simulation game built with Unity 6 (URP-optimized). Gamblers like me will love it. Coming soon…
 
 ### ✌ Just For Fun
-- https://math-problem-generator-pi.vercel.app/
+- [Math Problem Generator](https://math-problem-generator-pi.vercel.app/)
 
 ---
 <!--
