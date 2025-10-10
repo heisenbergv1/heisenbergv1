@@ -20,7 +20,7 @@ I design and build modern web systems — from .NET backends to React/Next.js fr
 - **[Unity-CoinSim](https://github.com/heisenbergv1/unity-coin-toss-3d)** – A realistic 3D coin-physics simulation game built with Unity 6 (URP-optimized). Gamblers like me will love it. Coming soon…
 
 ---
-
+<!--
 ## 🤔 Frequently Asked (and Mildly Concerning) Questions
 
 ### Q: What are you doing as a Software Engineer?
@@ -34,7 +34,7 @@ I design and build modern web systems — from .NET backends to React/Next.js fr
 > TL;DR: Vibes + rigor = senior energy.
 
 ---
-<!--
+
 ### 💡 About the Name
 
 The pseudonym **“heisenbergv1”** is a nod to **Werner Heisenberg**, the physicist behind the *Uncertainty Principle* — the idea that observation itself affects reality.  
