@@ -21,7 +21,7 @@ I design and build modern web systems — from .NET backends to React/Next.js fr
 
 ### ✌ Just For Fun
 - [Math Problem Generator](https://math-problem-generator-pi.vercel.app/)
-- [NoMod](#) community by character, not karma. Is a socmed app designed to take down Reddit-bs. This ends moderators’ gatekeeping. Access comes from character and quality points, not karma politics. No entitled, self-righteous user mods. Just accountable conversation.
+- [NoMod](#) community by character, not karma. Is a socmed app designed to take down Reddit-bs. This ends moderators’ gatekeeping. Access comes from character and quality points, not karma politics. Just accountable conversation.
 - [JobSpy](https://github.com/heisenbergv1/JobSpy) / [jobscraper](https://github.com/heisenbergv1/jobscraper) - when the mood strikes, I politely (and occasionally ruthlessly) hammer job sites—like a berserker.
 
 ---
