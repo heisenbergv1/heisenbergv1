@@ -1,0 +1,9 @@
+git fetch origin
+git checkout main
+
+git checkout --orphan tempbranch
+git add -A
+git commit -m "Initial commit (history squashed)"
+
+git branch -M main
+git push --force-with-lease -u origin main
