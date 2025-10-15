@@ -22,7 +22,7 @@ I design and build modern web systems — from .NET backends to React/Next.js fr
 ### ✌ Just For Fun
 - [Don Hector The Cat](https://ai-chatbot-nksn.vercel.app/) - you can talk to my AI cat if you have free time.
 - [Math Problem Generator](https://math-problem-generator-pi.vercel.app/)
-- [NoMod](#) - is a socmed app designed to take down Reddit-bs. This ends moderators’ gatekeeping. Value comes from character quality points, not nonsense karma politics.
+- [NoMod](#) - is a socmed app designed to take down Reddit.
 - [JobSpy](https://github.com/heisenbergv1/JobSpy) / [jobscraper](https://github.com/heisenbergv1/jobscraper) - when the mood strikes, I politely (and occasionally ruthlessly) hammer job sites—like a berserker.
 
 ---
