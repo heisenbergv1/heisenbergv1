@@ -17,7 +17,7 @@ I design and build modern web systems — from .NET backends to React/Next.js fr
 
 ### 🧩 Featured Projects (Serious)
 - **[Yelra](https://github.com/heisenbergv1/yelra)** – New systems language inspired by Rust; aims for zero-cost ergonomics, affine/borrowed ownership, effect-typed async, and friendly tooling.
-- **[Unity-CoinSim](#)** – A realistic 3D coin-physics simulation game built with Unity 6 (URP-optimized). Gamblers like me will love it.
+- **[Unity-CoinSim](#)** – A realistic 3D coin-physics simulation game built with Unity 6 (URP-optimized).
 
 ### ✌ Just For Fun
 - [Don Hector The Cat](https://ai-chatbot-nksn.vercel.app/) - you can talk to my AI cat if you have free time.
